@@ -1,0 +1,15 @@
+C:\alfredo\vs2017\Lab02\slnApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\alfredo\vs2017\Lab02\slnApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\alfredo\vs2017\Lab02\slnApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\alfredo\vs2017\Lab02\slnApp\WindowsFormsApp1\bin\Debug\Chinook.Data.dll
+C:\alfredo\vs2017\Lab02\slnApp\WindowsFormsApp1\bin\Debug\Chinook.Entities.dll
+C:\alfredo\vs2017\Lab02\slnApp\WindowsFormsApp1\bin\Debug\Chinook.Data.pdb
+C:\alfredo\vs2017\Lab02\slnApp\WindowsFormsApp1\bin\Debug\Chinook.Entities.pdb
+C:\alfredo\vs2017\Lab02\slnApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\alfredo\vs2017\Lab02\slnApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\alfredo\vs2017\Lab02\slnApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\alfredo\vs2017\Lab02\slnApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\alfredo\vs2017\Lab02\slnApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\alfredo\vs2017\Lab02\slnApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\alfredo\vs2017\Lab02\slnApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\alfredo\vs2017\Lab02\slnApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
